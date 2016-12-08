@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mongolianprincess/Sunrise_alarm/issues"
   },
-  "homepage": "https://github.com/mongolianprincess/Sunrise_alarm#readme"
+  "homepage": "https://github.com/mongolianprincess/Sunrise_alarm#readme",
+  "dependencies": {
+    "onoff": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2"
+  }
 }
